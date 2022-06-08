@@ -10,7 +10,7 @@
 # See the License for the specific language governing permissions and limitations under the License.
 #
 
-FROM ubuntu:14.04.5
+FROM ubuntu:20.04
 
 # Building git from source code:
 #   Ubuntu's default git package is built with broken gnutls. Rebuild git with openssl.
